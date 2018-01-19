@@ -7,15 +7,15 @@
 - User -> Devise
 - AdminUser -> STI (Single Table Inheritance)
 
-## Features:
+## Features
 - Approval Workflow
 - SMS Sending -> link to approval or overtime input
 - Administrate admin dashboard
 - Email summary to managers for Approval
 - Needs to be documented if employee did not log overtime
 
-## UI:
-Bootstrap -> formatting
+## UI
+- Bootstrap 
 
 ## Libraries/Gems
 - Devices,
@@ -23,5 +23,5 @@ Bootstrap -> formatting
 - Bootstrap,
 - Twilio,
 - Dotenv,
-- Rspec, 
+- Rspec,
 - Capybara
