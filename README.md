@@ -25,3 +25,6 @@ x AdminUser -> STI (Single Table Inheritance)
 - Dotenv,
 - Rspec,
 - Capybara
+
+## Refactor TODOS:
+- Refactor user association integration test in post_spec
