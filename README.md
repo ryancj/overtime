@@ -25,4 +25,3 @@ x User -> Devise
 - Dotenv,
 - Rspec,
 - Capybara
-test
