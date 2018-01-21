@@ -5,6 +5,7 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+#Rails Setup
 gem 'rails', '~> 5.0.2'
 gem 'pg', '0.20.0'
 gem 'puma', '~> 3.0'
@@ -16,6 +17,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
+#Console
 gem 'hirb'
 gem 'interactive_editor'
 gem 'awesome_print'
@@ -36,4 +38,6 @@ end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
+#Other
 gem 'devise', '~> 4.4.0'
+gem 'semantic-ui-sass'
