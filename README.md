@@ -4,7 +4,7 @@
 
 ## Models
 - Post -> date: date, rationale: text
-- User -> Devise
+x User -> Devise
 - AdminUser -> STI (Single Table Inheritance)
 
 ## Features
@@ -15,7 +15,7 @@
 - Needs to be documented if employee did not log overtime
 
 ## UI
-- Bootstrap 
+- Bootstrap
 
 ## Libraries/Gems
 - Devices,
